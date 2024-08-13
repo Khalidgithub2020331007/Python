@@ -1,0 +1,4 @@
+n = 5  # Replace with your desired size
+zeros_array = [0] * n
+
+print(zeros_array)  # Output: [0, 0, 0, 0, 0]
